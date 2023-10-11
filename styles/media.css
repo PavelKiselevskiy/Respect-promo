@@ -1,0 +1,1546 @@
+@media (max-width: 1600px) {
+  .main-banner__exp-daniel {
+    top: 145px;
+    left: 0; 
+  }
+
+  .main-banner__expert-title-daniel-container {
+    max-width: 417px;
+    padding: 5px 24px 5px 366px;
+  }
+
+  .main-banner__exp-sofia {
+    right: 0;
+    top: 110px;
+  }
+
+  .main-banner__sofia-img {
+    margin-right: 0;
+  }
+
+  .main-banner__expert-title-sofia-container {
+    padding: 5px 220px 5px 42px;
+    right: 0%;
+  }
+
+  .main-banner__exp-evgenie {
+    top: 257px;
+    right: 224px;
+    min-width: 500px;
+  }
+
+}
+
+
+@media(max-width:1300px) {
+  .container {
+    padding: 0 70px
+  }
+
+  .header__logo {
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 3;
+    grid-column: 1/4
+  }
+
+  .header__link {
+    font-size: 18px
+  }
+
+  .header__item:not(:last-child) {
+    margin-right: calc(30px + 20*(100vw - 1024px)/276)
+  }
+
+  .main-banner {
+    min-height: 620px
+  }
+
+  .main-banner::before {
+    top: 30%;
+  }
+
+  .main-banner__title {
+    font-size: 50px
+  }
+
+  .main-banner__exp-sofia {
+    top: 183px;
+  }
+
+  .main-banner__action {
+    font-size: 36px
+  }
+
+  .main-banner__action-version {
+    font-size: 100px
+  }
+
+  .main-banner__expert-title span {
+    font-size: 18px
+  }
+
+  .main-banner__btn {
+    min-height: 20px;
+    z-index: 20;
+    padding: 22px 17px;
+    font-size: 22px
+  }
+
+  .main-banner__exp-evgenie {
+    min-width: 100px;
+    top: 268px;
+    right: 167px;
+  }
+
+  .main-banner__expert-title-evgenie-container {
+    right: -55px
+  }
+
+  .main-banner__expert-title-daniel-container {
+    text-align: right;
+    padding: 5px 24px 5px 221px;
+    width: 53%;
+    left: 0%;
+  }
+
+  .season {
+    padding-bottom: 30px
+  }
+
+  .season__container {
+    padding: 20px 0
+  }
+
+  .season__title {
+    font-size: 20px
+  }
+
+  .season__descr {
+    font-size: 18px
+  }
+
+  .members__title {
+    margin-bottom: 36px;
+    font-size: 36px
+  }
+
+  .members__card-area {
+    margin-bottom: 32px;
+  }
+
+  .members__step {
+    font-size: 28px
+  }
+
+  .members__steps-container::before {
+    font-size: 295px
+  }
+
+  .members__step span {
+    font-size: 21px;
+  }
+
+  .members__required-condition {
+    font-size: 18px
+  }
+
+  .presents__title {
+    font-size: 36px
+  }
+
+
+  .grand-prize {
+    margin-bottom: 32px;
+  }
+
+  .grand-prize__card {
+    min-width: 370px;
+    padding-left: 5px
+  }
+
+  .grand-prize__card-area {
+    padding-top: 291px
+  }
+
+  .grand-prize__card-1,
+  .grand-prize__card-4 {
+    justify-self: flex-start
+  }
+
+  .grand-prize__card-title-price {
+    font-size: 70px
+  }
+
+  .grand-prize__card-3 {
+    top: 5%;
+    left: 50%;
+    margin-left: -187px;
+    margin-top: -110px;
+    min-width: 400px
+  }
+
+  .grand-prize__card-descr,
+  .grand-prize .grand-prize__summ {
+    max-width: 283px;
+    font-size: 18px
+  }
+
+  .experts {
+    margin-bottom: 32px;
+  }
+
+  .experts__card {
+    margin-bottom: 30px
+  }
+
+  .experts__title-distance {
+    margin-left: 292px;
+  }
+
+  .results__icon {
+    top: 37px
+  }
+
+  .contacts__container {
+    padding-top: 30px;
+    padding-bottom: 30px
+  }
+
+  .ac .results__accordion-title {
+    font-size: 36px
+  }
+
+  .rules__link {
+    font-size: 36px
+  }
+
+  .surprise__slide-title {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+
+
+@media(max-width:1024px) {
+  .container {
+    padding: 0 50px;
+    max-width: 924px
+  }
+
+  .header {
+    min-height: 70px
+  }
+
+  .header__link {
+    font-size: 15px
+  }
+
+  .header__logo svg {
+    max-width: 177px;
+    max-height: 76px;
+  }
+
+  .main-banner {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    min-height: 540px;
+  }
+
+  .main-banner::before {
+    top: 24%;
+  }
+
+
+  .main-banner__container {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    min-height: 306px
+  }
+
+  .main-banner__title {
+    margin-bottom: 30px;
+    font-size: 40px;
+    max-width: 490px
+  }
+
+  .main-banner__second-cont {
+    margin-bottom: auto
+  }
+
+  .main-banner__action {
+    font-size: 30px;
+    max-width: 160px
+  }
+
+  .main-banner__action-version {
+    font-size: 80px
+  }
+
+  .main-banner__btn {
+    font-size: 18px
+  }
+
+  .main-banner__expert-title {
+    font-size: 20px
+  }
+
+  .main-banner__expert-title span {
+    font-size: 13px
+  }
+
+  .main-banner__expert-title-sofia-container {
+    padding: 5px 120px 5px 42px
+  }
+
+  .main-banner__exp-daniel {
+    top: 180px
+  }
+
+  .main-banner__expert-title-daniel-container {
+    padding-left: 160px;
+    width: 57%;
+  }
+
+  .main-banner__exp-evgenie {
+    top: 209px;
+    right: 147px
+  }
+
+  .main-banner__exp-sofia {
+    top: 87px
+  }
+
+  .main-banner__expert-title-evgenie-container {
+    min-width: 192px;
+    max-width: 199px;
+    padding: 5px 5px 5px 24px;
+    text-align: left
+  }
+
+  .season__container {
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
+
+  .members {
+    padding-bottom: 30px
+  }
+
+  .members__title {
+    font-size: 30px;
+    margin-bottom: 10px
+  }
+
+  .members__card-area {
+    min-height: 210px;
+    margin-bottom: 40px;
+    padding: 0
+  }
+
+  .members__steps-container {
+    min-height: 180px
+  }
+
+  .members__steps-container::before {
+    font-size: 210px;
+    line-height: 190px;
+    left: 80px
+  }
+
+  .members__step span {
+    font-size: 18px;
+  }
+
+
+  .members__step {
+    padding-top: 75px;
+    font-size: 24px
+  }
+
+  .members__btn {
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+    min-width: 230px;
+    padding: 18px
+  }
+
+  .presents {
+    padding-bottom: 0px;
+  }
+
+  .presents__swiper {
+    min-height: 380px;
+  }
+
+  .presents__slide-container {
+    min-height: 450px;
+  }
+
+  .presents__title {
+    font-size: 30px
+  }
+
+  .presents__descr {
+    font-size: 22px
+  }
+
+  .presents__slide-title {
+    font-size: 50px;
+    max-width: 475px;
+  }
+
+  .presents__slide-descr {
+    font-size: 18px;
+  }
+
+  .surprise__left-panel {
+    padding: 0;
+    margin: 0;
+  } 
+
+  .presents__slide-left-panel {
+    padding-left: 20px;
+    margin-right: 6px;
+  }
+
+  .grand-prize {
+    padding-bottom: 54px;
+    padding-top: 0;
+  }
+  .grand-prize__title {
+    font-size: 30px
+  }
+
+  .grand-prize__descr {
+    font-size: 24px;
+    margin-bottom: 50px
+  }
+
+  .grand-prize__card-title-price {
+    font-size: 70px
+  }
+
+  .grand-prize__main-descr {
+    display: none
+  }
+
+  .grand-prize__card-area {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 0;
+    row-gap: 30px;
+    margin-bottom: 50px
+  }
+
+  .grand-prize__card-3 {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    -webkit-box-ordinal-group: 0;
+    -ms-flex-order: -1;
+    order: -1
+  }
+
+  .grand-prize__btn {
+    font-size: 20px
+  }
+
+  .experts {
+    margin-bottom: 15px;
+  }
+
+  .experts__title {
+    max-width: 650px;
+    font-size: 30px;
+    text-align: center
+  }
+
+  .experts__title-distance {
+    margin-bottom: 30px
+  }
+
+  .experts__descr {
+    font-size: 20px;
+    max-width: 540px;
+  }
+
+  .experts__card {
+    padding: 0 50px
+  }
+
+  .experts__card-title {
+    font-size: 20px
+  }
+
+  .experts__card-descr {
+    font-size: 18px;
+    line-height: 140%
+  }
+
+  .experts__card-img {
+    -ms-flex-item-align: end;
+    -ms-grid-row-align: end;
+    align-self: end;
+    margin-right: 30px;
+    margin-left: 30px
+  }
+
+  .experts__card-2-img {
+    margin-right: 0
+  }
+
+  .experts__card-img-3 {
+    margin: 0;
+    margin-right: 30px
+  }
+
+  .experts__card-title-cont {
+    min-height: 50px
+  }
+
+  .experts__card-title-cont-2 {
+    min-width: 84%
+  }
+
+  .experts__card-title-cont-3 {
+    min-width: 94%
+  }
+
+  .reviews__title {
+    font-size: 30px
+  }
+
+  .reviews__card-title {
+    font-size: 25px
+  }
+
+  .reviews__card-descr {
+    font-size: 22px
+  }
+
+  .reviews__accordion-content {
+    font-size: 18px
+  }
+
+  .reviews__card-3 {
+    margin-bottom: 30px
+  }
+
+  .reviews__card:nth-child(2n) p {
+    text-align: start
+  }
+
+  .reviews__card-3 .custom-p {
+    text-align: start
+  }
+
+  .reviews__card-1 {
+    padding: 0 50px
+  }
+
+  .ac .results__accordion-title {
+    font-size: 30px
+  }
+
+  .results__icon {
+    top: 29px
+  }
+
+  .rules__link {
+    font-size: 30px
+  }
+
+  .contacts__container {
+    padding-top: 30px;
+    padding-bottom: 30px
+  }
+
+  .contacts__title {
+    font-size: 30px
+  }
+
+  .contacts__descr {
+    margin-bottom: 30px;
+    font-size: 20px
+  }
+
+  .contacts__btn {
+    padding: 18px 24px
+  }
+
+  .footer {
+    padding-bottom: 10px
+  }
+
+  .footer__logo-img {
+    max-width: 170px
+  }
+
+  .footer__link {
+    font-size: 15px
+  }
+
+  .footer__logo svg {
+    max-width: 177px;
+    max-height: 76px;
+  }
+
+  .footer__item:not(:last-child) {
+    margin-right: calc(15px + 45*(100vw - 768px)/256)
+  }
+
+  .ac .ac-panel .ac-text {
+    font-size: 20px
+  }
+
+  .swiper-pagination-bullet {
+    font-size: 100px
+  }
+
+  .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 20%;
+
+  }
+}
+
+@media(max-width:768px) {
+  .container {
+    padding: 0 20px
+  }
+
+  .header__item:nth-child(3) {
+    display: none
+  }
+
+  .header__item:nth-child(5) {
+    display: none
+  }
+
+  .header__item:not(:nth-child(4)) {
+    margin-right: calc(30px + 50*(100vw - 576px)/192)
+  }
+
+  .main-banner {
+    min-height: 610px;
+    padding-bottom: 30px;
+  }
+
+  .main-banner::before {
+    top: 20%;
+  }
+
+  .main-banner__container {
+    min-height: 642px;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: start
+  }
+
+  .main-banner__title {
+    margin-bottom: 10px
+  }
+
+  .main-banner__second-cont {
+    margin-bottom: auto
+  }
+
+  .main-banner__expert-title {
+    font-size: 18px
+  }
+
+  .main-banner__expert-title span {
+    font-size: 12px
+  }
+
+  .main-banner__exp-daniel {
+    top: 150px
+  }
+
+  .main-banner__expert-title-daniel-container {
+    padding-left: 85px
+  }
+
+  .main-banner__expert-title-daniel {
+    max-width: 166px
+  }
+
+  .main-banner__exp-evgenie {
+    top: 238px;
+    right: 121px
+  }
+
+  .main-banner__expert-title-evgenie-container {
+    right: -50px;
+    top: -80px;
+    padding-right: 30px
+  }
+
+  .main-banner__exp-sofia {
+    top: 162px;
+    max-width: 300px
+  }
+
+  .main-banner__expert-title-sofia-container {
+    padding: 5px 50px 5px 23px
+  }
+
+  .season__container {
+    padding-top: 10px;
+    padding-bottom: 20px
+  }
+
+  .members {
+    padding-bottom: 7px;
+  }
+
+  .members__card-area {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 0;
+  }
+
+  .members__container {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+  }
+
+  .members__arrow {
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    padding-top: 0
+  }
+
+  .members__steps-container {
+    min-height: 226px
+  }
+
+  .members__steps-container::before {
+    font-size: 250px;
+    line-height: 190px;
+    left: 20%
+  }
+
+  .members__step-1::before {
+    left: 15%
+  }
+
+  .members__required-condition {
+    margin-bottom: 20px;
+    max-width: 390px;
+    color: rgba(255, 255, 255, .5)
+  }
+
+  .members__required-condition-link {
+    color: rgba(255, 255, 255, .5)
+  }
+
+  .presents__descr {
+    max-width: 500px
+  }
+
+  .presents__swiper {
+    min-height: 281px;
+  }
+
+  .presents__slide-container {
+    min-height: 330px;
+    padding-top: 40px;
+  }
+
+
+
+  .grand-prize {
+    margin-bottom: 30px
+  }
+
+  .experts {
+    margin-bottom: 30px
+  }
+
+  .experts__title {
+    font-size: 24px;
+    max-width: 500px
+  }
+
+  .experts__title-distance {
+    margin-left: 200px
+  }
+
+  .experts__card-img {
+    margin: 0;
+    margin-right: 10px
+  }
+
+  .experts__card-2-img {
+    margin-left: 10px
+  }
+
+  .experts__card-title {
+    font-size: 16px
+  }
+
+  .experts__card-descr {
+    font-size: 16px;
+    line-height: 110%
+  }
+
+  .reviews__decoration {
+    margin-bottom: 30px
+  }
+
+  .reviews__card-title {
+    font-size: 18px
+  }
+
+  .reviews__card-descr {
+    font-size: 18px
+  }
+
+  .reviews__card {
+    margin-bottom: 10px
+  }
+
+  .reviews__card-1 {
+    padding: 0
+  }
+
+  .reviews__accordion-content {
+    font-size: 16px
+  }
+
+  .results {
+    margin-bottom: 30px
+  }
+
+  .ac .results__accordion-title {
+    font-size: 24px
+  }
+
+  .results__icon {
+    top: 24px
+  }
+
+  .results__icon svg {
+    width: 20px;
+    height: 20px
+  }
+
+  .rules {
+    margin-bottom: 30px
+  }
+
+  .rules__link {
+    font-size: 24px
+  }
+
+  .rules__link svg {
+    min-width: 20px;
+    min-height: 20px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .contacts__container {
+    padding-top: 20px;
+    padding-bottom: 20px
+  }
+
+  .contacts__descr {
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center
+  }
+
+  .footer__item:nth-child(3) {
+    display: none
+  }
+
+  .footer__item:nth-child(5) {
+    display: none
+  }
+
+  .footer__item:not(:nth-child(4)) {
+    margin-right: calc(30px + 50*(100vw - 576px)/192)
+  }
+
+  .ac .ac-panel .ac-text {
+    font-size: 18px
+  }
+}
+
+@media(max-width:600px) {
+  .primary-btn {
+    font-size: 18px
+  }
+
+  .second-title {
+    font-size: 24px
+  }
+
+  .header {
+    min-height: 50px;
+    padding-top: 20px
+  }
+
+  .header__item:not(:last-child) {
+    margin-right: 0
+  }
+
+  .header__logo {
+    max-width: 87px;
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 3;
+    grid-column: 1/4
+  }
+
+  .header__logo svg {
+    max-width: 87px;
+    max-height: 37px;
+  }
+
+  .header__nav {
+    grid-column: 5/-1
+  }
+
+  .header__item:not(:nth-child(4)) {
+    margin-right: calc(18px + 27*(100vw - 320px)/280)
+  }
+
+  .header__link {
+    font-size: 12px
+  }
+
+  .main-banner {
+    padding-bottom: 30px
+  }
+
+  .main-banner::before {
+    top: 28%;
+  }
+
+  .main-banner__container {
+    min-height: 600px
+  }
+
+  .main-banner__title {
+    font-size: 48px;
+    max-width: 333px;
+    line-height: 99.5%
+  }
+
+  .main-banner__title span {
+    font-size: 30px
+  }
+
+  .main-banner__action {
+    font-size: 21px
+  }
+
+  .main-banner__action-version {
+    font-size: 54px;
+    letter-spacing: -5px
+  }
+
+  .main-banner__expert-title-daniel {
+    max-width: 117px
+  }
+
+  .main-banner__exp-daniel {
+    top: 236px
+  }
+
+  .main-banner__expert-title-daniel-container {
+    padding-left: 59px;
+  }
+
+  .main-banner__expert-title {
+    font-size: 14px
+  }
+
+  .main-banner__expert-title span {
+    font-size: 9px
+  }
+
+  .main-banner__expert-title-sofia-container {
+    min-width: 150px;
+  }
+
+  .main-banner__exp-sofia {
+    top: 187px;
+    min-width: 150px;
+    max-width: 300px
+  }
+
+  .main-banner__exp-evgenie {
+    top: 256px;
+    right: 126px
+  }
+
+  .main-banner__expert-title-evgenie-container {
+    padding: 5px 5px 5px 16px;
+    right: -90px;
+    top: -60px
+  }
+
+  .main-banner__expert-title-evgenie {
+    min-width: 150px;
+    max-width: 167px
+  }
+
+  .main-banner__expert-title-sofia {
+    max-width: 180px
+  }
+
+  .main-banner__expert-title-sofia-container {
+    padding: 5px 89px 5px 10px;
+  }
+
+  .season__container {
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
+
+  .season__title {
+    font-size: 13px
+  }
+
+  .season__descr {
+    font-size: 13px
+  }
+
+  .members {
+    padding-top: 10px
+  }
+
+  .members__card-area {
+    margin-bottom: 0px;
+  }
+
+  .members__step {
+    padding-top: 90px;
+    font-size: 22px
+  }
+
+  .members__step-3::before {
+    left: 10%
+  }
+
+  .members__required-condition {
+    max-width: 268px;
+    margin-bottom: 26px;
+    font-size: 10px;
+  }
+
+  .presents {
+    padding-bottom: 5px
+  }
+
+  .presents__slide-left-panel {
+    margin-right: 10px;
+  }
+
+  .presents__descr {
+    max-width: 320px;
+    font-size: 12px
+  }
+
+
+  .presents__slide-title {
+    font-size: 36px
+  }
+
+  .presents__slide-descr {
+    max-width: 166px;
+    font-size: 12px
+  }
+
+  .presents__slide-img {
+    padding: 0
+  } 
+
+  .surprise__slide {
+    padding-top: 20px;
+  }
+
+  .grand-prize {
+    padding-top: 0;
+    padding-bottom: 30px
+  }
+
+  .grand-prize__title {
+    font-size: 30px
+  }
+
+  .grand-prize__descr {
+    max-width: 320px;
+    margin-bottom: 20px;
+    font-size: 16px
+  }
+
+  .grand-prize__card-area {
+    row-gap: 30px;
+    min-height: 620px;
+    margin-bottom: 30px;
+  }
+
+  .grand-prize__card-title-price {
+    margin-bottom: 15px;
+    font-size: 36px;
+    line-height: normal
+  }
+
+  .grand-prize__main-title {
+    font-size: 50px
+  }
+
+  .grand-prize__main-summ {
+    font-size: 13px
+  }
+
+  .grand-prize__summ {
+    max-width: 150px;
+    min-width: 10px;
+    font-size: 10px
+  }
+
+  .grand-prize__card {
+    padding: 10px;
+    min-width: 190px;
+    min-height: 118px;
+    border-radius: 19px
+  }
+
+  .grand-prize__card-3 {
+    min-width: 279px;
+    min-height: 100%;
+    padding: 0;
+    padding-top: 51px;
+    padding-bottom: 40px;
+    border-radius: 26px
+  }
+
+  .grand-prize__card-descr,
+  .grand-prize__summ {
+    max-width: 176px;
+    font-size: 10px
+  }
+
+  .grand-prize__card-descr,
+  .grand-prize .grand-prize__summ {
+    max-width: 190px;
+    font-size: 10px
+  }
+
+  .grand-prize__card-nameplate {
+    right: 10px
+  }
+
+  .grand-prize__card-nameplate-text {
+    font-size: 8px
+  }
+
+  .grand-prize__card-2 {
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1
+  }
+
+  .grand-prize__card-1 {
+    position: absolute;
+    z-index: 10;
+    bottom: 0;
+    right: 0;
+    -webkit-box-ordinal-group: 5;
+    -ms-flex-order: 4;
+    order: 4
+  }
+
+  .grand-prize__card-4 {
+    z-index: 5;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    -webkit-box-ordinal-group: 4;
+    -ms-flex-order: 3;
+    order: 3
+  }
+
+  .grand-prize__card-5 {
+    top: 300px;
+    right: 0;
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 2;
+    order: 2;
+    position: absolute
+  }
+
+  .experts {
+    margin-bottom: 0;
+  }
+
+  .experts__title {
+    max-width: 100%
+  }
+
+  .experts__title-distance {
+    margin: 0;
+    margin-bottom: 14px
+  }
+
+  .experts__descr {
+    max-width: 271px;
+    font-size: 12px
+  }
+
+  .experts__card {
+    padding: 0 20px
+  }
+
+  .experts__card-descr {
+    padding-bottom: 50px;
+    font-size: 12px
+  }
+
+  .experts__card-title {
+    font-size: 12px
+  }
+
+  .experts__card-title-cont {
+    min-height: 28px
+  }
+
+  .reviews__card-title {
+    font-size: 16px
+  }
+
+  .reviews__card-descr {
+    font-size: 16px
+  }
+
+  .reviews__accordion-content {
+    font-size: 12px
+  }
+
+  .results__accordion-content {
+    font-size: 12px
+  }
+
+  .contacts__title {
+    font-size: 16px
+  }
+
+  .contacts__descr {
+    font-size: 11px
+  }
+
+  .footer__container {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+  }
+
+  .footer__logo {
+    display: block;
+    margin-right: 0
+  }
+
+  .footer__logo svg {
+    max-width: 87px;
+    max-height: 37px;
+  }
+
+  .footer__logo-img {
+    display: block;
+    max-width: 68px
+  }
+
+  .footer__link {
+    font-size: 12px
+  }
+
+  .footer__item:not(:last-child) {
+    margin-right: 0
+  }
+
+  .footer__item:not(:nth-child(4)) {
+    margin-right: calc(15px + 35*(100vw - 320px)/280)
+  }
+
+  .swiper-horizontal>.swiper-pagination-bullets,
+  .swiper-pagination-bullets.swiper-pagination-horizontal,
+  .swiper-pagination-custom,
+  .swiper-pagination-fraction {
+    left: 25%;
+    font-size: 87px
+  }
+
+  .swiper-button-prev svg {
+    width: 36px;
+    height: 36px
+  }
+
+  .swiper-button-next svg {
+    width: 36px;
+    height: 36px
+  }
+
+  .rules__table-td {
+    font-size: 12px;
+  }
+}
+
+@media(max-width:450px) {
+  .container {
+    padding: 0 10px;
+    min-width: 300px
+  }
+
+  .header__container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 0
+  }
+
+  .header__logo {
+    margin-right: auto
+  }
+
+  .header__item:not(:nth-child(4)) {
+    margin-right: calc(8px + 14*(100vw - 320px)/130)
+  }
+
+  .header__nav {
+    grid-column: 4/-1
+  }
+
+  .main-banner {
+    min-height: 542px;
+    padding-top: 32px
+  }
+
+  .main-banner::before {
+    top: 20%;
+  }
+
+  .main-banner__container {
+    min-height: 560px
+  }
+
+  .main-banner__action {
+    max-width: 114px;
+    margin-right: 5px
+  }
+
+  .main-banner__title {
+    line-height: 73.5%
+  }
+
+  .main-banner__img-daniel {
+    margin-left: 0
+  }
+
+  .main-banner__title span {
+    font-size: 27px
+  }
+
+  .main-banner__expert-title-daniel-container {
+    display: block;
+    width: 77%;
+    padding: 5px 5px 5px 30px;
+    margin-right: 10px
+  }
+
+  .main-banner__expert-title-evgenie-container {
+    top: -72px;
+    right: -32px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    min-width: 103px
+  }
+
+  .main-banner__expert-title-evgenie {
+    display: block;
+    max-width: 103px
+  }
+
+  .main-banner__exp-daniel {
+    top: 200px
+  }
+
+  .main-banner__exp-evgenie {
+    min-width: 91px;
+    right: 72px;
+    top: 262px
+  }
+
+  .main-banner__expert-title {
+    line-height: 80%
+  }
+
+  .main-banner__exp-sofia {
+    top: 195px
+  }
+
+  .main-banner__expert-title-sofia-container {
+    padding: 5px 31px 5px 17px
+  }
+
+  .season__container {
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
+
+  .presents__slide-title {
+    font-size: 25px;
+  }
+
+  .grand-prize__card-area {
+    max-width: 370px
+  }
+
+  .grand-prize__card {
+    min-width: 170px;
+    max-width: 180px;
+    min-height: 98px
+  }
+
+  .grand-prize__card-4 {
+    margin-top: 20px
+  }
+
+  .grand-prize__card-2 {
+    margin-left: 10px
+  }
+
+  .grand-prize__card-3 {
+    min-width: 279px;
+    min-height: 100%
+  }
+
+  .grand-prize__card-5 {
+    right: -1px
+  }
+
+  .grand-prize__card-1 {
+    right: -1px;
+    bottom: 10px
+  }
+
+  .experts__card {
+    padding: 0 10px
+  }
+
+  .experts__card-title-cont {
+    min-height: 28px;
+    min-width: 89%
+  }
+
+  .experts__card-title {
+    padding-right: 15px
+  }
+
+  .experts__card-title-cont-2 {
+    width: 95%;
+    padding-left: 10px
+  }
+
+  .contacts__container {
+    padding-top: 15px;
+    padding-bottom: 15px
+  }
+
+  .footer__container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 0
+  }
+
+  .footer__item:not(:nth-child(4)) {
+    margin-right: calc(8px + 14*(100vw - 320px)/130)
+  }
+
+  .swiper-button-prev svg {
+    width: 28px;
+    height: 28px;
+  }
+
+  .swiper-button-next svg {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+@media (max-width: 390px) {
+  .grand-prize__card {
+    min-width: 200px;
+  }
+  
+  .grand-prize__card-1 {
+    position: relative;
+  }
+
+  .grand-prize__card-2 {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    margin: 0;
+  }
+
+  .grand-prize__card-3 {
+    min-width: 279px;
+  }
+
+
+  .grand-prize__card-4 {
+    margin-top: 0;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+  }
+
+  .grand-prize__card-5 {
+    position: relative;
+    top: inherit;
+    right: 0;
+  }
+
+  .main-banner__title {
+    max-width: 316px;
+  }
+
+  .main-banner::before {
+    top: 26%;
+  }
+
+  .experts__card-title-cont-3 {
+    min-width: 99%;
+  }
+
+  .experts__card-title-cont-3 .experts__card-title {
+    padding-right: 5px;
+  }
+
+
+
+
+
+}
